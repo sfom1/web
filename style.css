@@ -1,1 +1,58 @@
+h1.a{
+    background-color: lightpink;
+    
+}
 
+p1.a{
+background-color: aliceblue;
+color: royalblue;
+}
+
+p2.foto1{
+    color: lightsalmon;
+    font-family: "Inter", Sans-Serif;
+    font-weight: 550;
+    font-size: 100px;
+    margin-left: 25px;
+    display: inline;
+    margin-right: 5px;
+    margin-top: 0px;
+    float: left ;
+}
+p2.foto2{
+    color: lightsalmon;
+    font-family: "Inter", Sans-Serif;
+    font-weight: 550;
+    font-size: 100px;
+    margin-left: 25px;
+    display: inline;
+    margin-right: 5px;
+    float: center ;
+    margin-top: 150px;
+}
+p2.foto3{
+    color: lightsalmon;
+    font-family: "Inter", Sans-Serif;
+    font-weight: 550;
+    font-size: 100px;
+    margin-left: 25px;
+    display: inline;
+    margin-right: 5px;
+    float: right ;
+  
+}
+
+
+p3.nom{
+    background-color: yellow;
+    color: blue;
+}
+
+
+h1.blue{
+    color: blue;
+}
+
+h1.Opinió{
+    color: blue;
+}
